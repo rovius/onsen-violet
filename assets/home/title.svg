@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190.5004mm"
+   height="47.900906mm"
+   viewBox="0 0 190.5004 47.900907"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="mm.svg"
+   inkscape:export-filename="mm.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2991932"
+     inkscape:cx="180.88149"
+     inkscape:cy="75.431429"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="64"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8507">
+      <stop
+         style="stop-color:#bdd8ff;stop-opacity:1;"
+         offset="0"
+         id="stop8503" />
+      <stop
+         style="stop-color:#536183;stop-opacity:1;"
+         offset="1"
+         id="stop8505" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient923">
+      <stop
+         style="stop-color:#bdd8ff;stop-opacity:1;"
+         offset="0"
+         id="stop919" />
+      <stop
+         style="stop-color:#38425a;stop-opacity:1;"
+         offset="1"
+         id="stop921" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient923"
+       id="linearGradient925"
+       x1="18.572559"
+       y1="109.14215"
+       x2="2259.8242"
+       y2="109.14215"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8507"
+       id="linearGradient7775"
+       gradientUnits="userSpaceOnUse"
+       x1="18.572559"
+       y1="109.14215"
+       x2="2259.8242"
+       y2="109.14215"
+       gradientTransform="matrix(0.0849975,0,0,0.0849975,12.799019,-187.38432)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.988188,204.791)">
+    <text
+       xml:space="preserve"
+       style="font-size:21.8642px;line-height:1;font-family:System-ui;-inkscape-font-specification:System-ui;text-decoration-color:#000000;fill:url(#linearGradient7775);fill-opacity:1;fill-rule:evenodd;stroke-width:0.135407;-inkscape-stroke:none;stop-color:#000000"
+       x="109.62805"
+       y="-183.71681"
+       id="text740"><tspan
+         sodipodi:role="line"
+         id="tspan738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sonic 1 Title Screen Filled';-inkscape-font-specification:'Sonic 1 Title Screen Filled';text-align:center;text-anchor:middle;fill:url(#linearGradient7775);fill-opacity:1;stroke-width:0.135407"
+         x="109.62805"
+         y="-183.71681">MUSE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sonic 1 Title Screen Filled';-inkscape-font-specification:'Sonic 1 Title Screen Filled';text-align:center;text-anchor:middle;fill:url(#linearGradient7775);fill-opacity:1;stroke-width:0.135407"
+         x="109.62805"
+         y="-157.66943"
+         id="tspan742">Adventure</tspan></text>
+  </g>
+</svg>
